@@ -1,3 +1,5 @@
+`timescale 1ns / 1ps
+
 module L293D(
 input in1, in2, in3, in4,
 input enA, enB,clk,
